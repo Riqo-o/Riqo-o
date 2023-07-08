@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2nd July 2023<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Frontend development<br>🎲 Fun fact: I'm annoying🫥</p>
+<p align="left">✨ Creating bugs since 2nd July 2023<br>📚 I'm currently learning JavaScript<br>🖊️ Currently working on:<a href="https://github.com/Hridoy0016/Blaze" Blaze ><br>🎯 Goals: Frontend development<br>🎲 Fun fact: I'm annoying🫥</p>
 
 ###
 
